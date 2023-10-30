@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anand Pratap Singh Tomar
-- 👀 I’m interested in ...GUI Development,web development 
-- 🌱 I’m currently learning ...C++and java
-- 💞️ I’m looking to collaborate on ...StartUps
+- 👀 I’m Working in ...Data Science and ML,DL models
+- 🌱 I’m currently learning ...NLP and PyTorch
+- 💞️ I’m looking to work with ... A Good team of Data Science Professionals.
 - 📫 How to reach me ... e-mail me on anandsinghtomar101@gmail.com
 
 <!---
